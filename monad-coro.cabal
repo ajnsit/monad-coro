@@ -1,4 +1,4 @@
-Name:                monad-coroutine
+Name:                monad-coro
 Version:             0.9
 Cabal-Version:       >= 1.16
 Build-Type:          Simple
@@ -14,11 +14,11 @@ License-file:        LICENSE.txt
 Copyright:           (c) 2010-2012 Mario Blazevic
 Author:              Mario Blazevic, Anupam Jain
 Maintainer:          ajnsit@gmail.com
-Homepage:            http://github.com/ajnsit/monad-coroutine/
+Homepage:            http://github.com/ajnsit/monad-coro/
 
 Source-repository head
   type:              git
-  location:          http://github.com/ajnsit/monad-coroutine/
+  location:          http://github.com/ajnsit/monad-coro/
 
 Library
   hs-source-dirs:    src
