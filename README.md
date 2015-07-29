@@ -1,4 +1,6 @@
-monad-coroutine
-===============
+monad-coro
+==========
 
-Monadic coroutines for haskell - extracted from Mario Blazevic's SCC
+Monadic generators for haskell.
+
+TODO- Add more documentation
